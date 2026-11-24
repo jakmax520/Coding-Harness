@@ -1,7 +1,7 @@
-# LogexusCoding
+# DeepSeek-Harness
 
-Logexus 的 AI Coding 引擎独立仓库。基座为 DeepSeek 开源的
-[coding-harness](https://github.com/deepseek-ai/coding-harness)（dsh），
+Logexus 的 DeepSeek-Harness引擎独立仓库。基座为 DeepSeek 开源的
+[DeepSeek-Harness](https://github.com/deepseek-ai/deepseek-harness)（dsh），
 并在其上承载 Logexus 的白标定制。
 
 ## 目录
