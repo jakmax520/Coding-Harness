@@ -21,7 +21,7 @@ import { basename, dirname, join, resolve } from 'node:path';
 import { buildManifest, validateManifest } from './lib/manifest.mjs';
 
 const SUPPORTED_PLATFORMS = ['macos-x64', 'windows-x64', 'linux-x64'];
-const DEFAULT_REPO = 'jakmax520/LogexusCoding';
+const DEFAULT_REPO = 'jakmax520/Coding-Harness';
 const HASH_CHUNK_SIZE = 1024 * 1024;
 
 class ManifestError extends Error {}
